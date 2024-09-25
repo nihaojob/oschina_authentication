@@ -7,6 +7,7 @@
 
 > 我的 OSCHINA 账号：  作者认证 - vue-fabric-editor
 > 软件仓库地址：我的 OSCHINA 帐号：秦少卫
+
 软件仓库地址：https://github.com/nihaojob/vue-fabric-editor
 
 2、点击前往 OSCHINA 认证页面：https://www.oschina.net/p/abp-framework/author-authentication
